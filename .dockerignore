@@ -1,0 +1,11 @@
+*
+!requirements.txt
+!main.py
+!table_detector.py
+!table_seg_640.onnx
+!best_960_fp32.onnx
+!best_dyn_fp16.onnx
+!best_dyn_fp32.onnx
+!static/
+!static/ort/
+!static/ort/**

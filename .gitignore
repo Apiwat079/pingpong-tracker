@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.onnx
+*.pt
+*.pth
+*.pem
+*.crt
+*.key
+*.zip
+*.log
+captures/
+static/ort/
